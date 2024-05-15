@@ -1,6 +1,6 @@
 {
   "name": "react-native-vision-camera-detect-faces-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "detect face plugin for react-native-vision-camera",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
