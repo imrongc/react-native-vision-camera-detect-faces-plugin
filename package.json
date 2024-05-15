@@ -35,6 +35,10 @@
   },
   "keywords": [
     "react-native",
+    "react-native-vision-camera",
+    "detect face",
+    "detect faces",
+    "face detection",
     "ios",
     "android"
   ],
